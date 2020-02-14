@@ -44,4 +44,4 @@ class Solution:
                         f[i][j] = min(f[i][j], f[i0][j - 1] + cost(i0, i - 1))
 
         return f[n][k]
-https://github.com/SakuraGo/leetcodepython3.git
+# https://github.com/SakuraGo/leetcodepython3.git
