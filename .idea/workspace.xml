@@ -5,11 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/ZS/ZS155_2.py" description="1" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="938ab924-c357-41f1-8a59-7632a57bf673" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AWuQiKu.py" beforeDir="false" afterPath="$PROJECT_DIR$/AWuQiKu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZS/ZS165_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZS/ZS165_04.py" afterDir="false" />
-    </list>
+    <list default="true" id="938ab924-c357-41f1-8a59-7632a57bf673" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ZS2020/ZS175_04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="272">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ZS2020/ZS174_04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -385,30 +381,41 @@
       <option name="presentableId" value="Default" />
       <updated>1560011449465</updated>
     </task>
+    <task id="LOCAL-00001" summary="ads">
+      <created>1581696359027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581696359027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83682984" visible="true" weight="0.15279241" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.14646997" />
       <window_info id="Favorites" order="2" sideWeight="0.16317016" side_tool="true" weight="0.19066666" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29067245" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.29067245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3373102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.112676054" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.29067245" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="ads" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2554,17 +2561,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZS2020/ZS175_04.py">
+    <entry file="file://$PROJECT_DIR$/ZS2020/ZS174_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZS2020/ZS174_04.py">
+    <entry file="file://$PROJECT_DIR$/ZS2020/ZS175_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="272">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
